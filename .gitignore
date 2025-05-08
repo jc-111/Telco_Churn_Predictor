@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Local data files
+*.csv
+!data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Sensitive information
+.env
+*.pem
+credentials.json
+
+# Temporary files
+temp/
+temp_*.csv
+*.tmp
+
+# MacOS specific
+.DS_Store
+
+# Artifacts that will be generated
+#artifacts/
+
+# Cache
+.pytest_cache/
+.coverage
+htmlcov/
