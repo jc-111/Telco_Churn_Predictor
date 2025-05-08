@@ -13,9 +13,7 @@ build/
 venv/
 env/
 ENV/
-
-# Jupyter Notebook
-.ipynb_checkpoints
+churn_pred/
 
 # IDE specific files
 .idea/
@@ -51,3 +49,6 @@ temp_*.csv
 .pytest_cache/
 .coverage
 htmlcov/
+
+
+scripts/catboost_info/
