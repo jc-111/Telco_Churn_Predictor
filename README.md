@@ -159,7 +159,3 @@ This will launch the Streamlit application in your default web browser, where yo
 - Service improvement based on identified pain points
 - Contract and pricing strategy optimization
 - Customer experience enhancement focused on key churn drivers
-
----
-
-*Note: This project is for educational and analytical purposes. The insights and models should be validated in a real business context before implementation.*
