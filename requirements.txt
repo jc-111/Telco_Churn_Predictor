@@ -12,3 +12,4 @@ shap
 streamlit
 lightgbm
 imbalanced-learn
+streamlit
